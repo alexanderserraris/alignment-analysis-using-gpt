@@ -1,0 +1,23 @@
+Analyze the alignment of the following text with the provided list of principles. For each principle, score the alignment on a scale of 1 to 5, with 1 indicating poor alignment and 5 indicating excellent alignment. Provide specific examples from the text to justify each score. Output your findings in JSON.
+
+Text X:
+[[X]]
+
+Principles:
+[[principles]]
+
+Example output:
+{
+  "Principles": [
+    {
+        "Principle": "Example principle",
+        "Score": 3,
+        "Justification": "Example text"
+    },
+    {
+        "Principle": "example principle",
+        "Score": 4,
+        "Justification": "Example text"
+    }
+  ]
+}

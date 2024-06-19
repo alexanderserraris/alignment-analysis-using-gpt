@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "properties": {
+    "Principles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Principle": { "type": "string" },
+          "Explanation": { "type": "string" }
+        },
+        "required": ["Principle", "Explanation"]
+      }
+    }
+  },
+  "required": ["Principles"]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "properties": {
+    "Principles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Principle": { "type": "string" },
+          "Score": {
+            "type": "number",
+            "minimum": 1,
+            "maximum": 5
+          },
+          "Justification": { "type": "string" }
+        },
+        "required": ["Principle", "Score", "Justification"]
+      }
+    }
+  },
+  "required": ["Principles"]
+}

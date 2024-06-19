@@ -1,0 +1,32 @@
+**Prompt**: Analyze Text \( X \) and Extract Principles
+
+1. **Text Input**:
+   [[X]]
+
+2. **Instructions for Analysis**:
+   - Read through the provided text \( X \) carefully.
+   - Identify the main themes and messages conveyed in the text.
+   - From these themes, distill a set of clear and concise principles. These principles should encapsulate the core ideas or values that are evident in the text.
+
+3. **Output Requirements**:
+   - List each principle clearly.
+   - For each principle, provide a brief explanation or an example from the text that supports this principle.
+   - Ensure that the principles are distinct and cover different aspects of the text.
+
+4. **Additional Notes**:
+   - Aim for clarity and brevity in the principles.
+   - The principles should be actionable or insightful, providing guidance or reflection based on the text.
+
+5. **Example Output**:
+{
+    "Principles": [
+        {
+            "Principle": "Resilience in the face of adversity",
+            "Explanation": "The text illustrates the importance of resilience through the character's ability to overcome challenges and setbacks."
+        },
+        {
+            "Principle": "Importance of community support",
+            "Explanation": "The text highlights the role of community and support networks in helping individuals navigate difficult situations."
+        }
+    ]
+}
