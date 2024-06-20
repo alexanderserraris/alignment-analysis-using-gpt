@@ -128,8 +128,9 @@ def prompt_with_variables(prompt: str,
 
 def main():
 
-    company_goals_df = pd.read_csv(f'{INPUT_DIR}/stated goals.csv')
-    articles_df = pd.read_csv(f'{INPUT_DIR}/articles.csv')
+    company_goals_df = pd.read_csv(
+        f'{INPUT_DIR}/stated goals.csv', delimiter=';')
+    articles_df = pd.read_csv(f'{INPUT_DIR}/articles.csv', delimiter=';')
 
     # Ensure the directory exists
     os.makedirs(OUTPUT_RUN_PATH, exist_ok=True)
@@ -193,7 +194,11 @@ def main():
         results_for_company: list[dict[str, Any]] = []
         for j, article in company_articles.iterrows():
             print(f"Processing article {j} of {len(company_articles) - 1}")
-            article_text = article['Article']
+            if 'Article' not in article:
+                raise KeyError(
+                    "Article column not found in the articles file (this column has the text of the article)")
+            else:
+                article_text = article['Article']
 
             analysis = prompt_with_variables(
                 analysis_prompt,
