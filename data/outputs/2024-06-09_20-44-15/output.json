@@ -1,0 +1,1019 @@
+{
+  "ING": {
+    "input": {
+      "strategy": "**Providing customers with a superior experience**\n\nAs an organisation, we need to be customer focused \u2013 after all, customers are who we're here for, our reason for being. We want to provide them with the products and services they need: executing payments and other transactions, keeping and managing their money and savings and extending loans and making investments. Our aim is to do all that with an experience that is easy, instant, personal and relevant. We realise that different types of customers have different needs. We can make a difference by helping them to plan for the future and make informed financial decisions, and by providing suitable financial products and customised advice. Read more on how we cater to our customers\u2019 needs, private individuals, small businesses and large corporates in 'Superior customer experience'.\n\n**Putting sustainability at the heart of what we do**\n\nWe have a role in society to define new ways of doing business that align with economic changes, growth and social impact. Climate change is one of the world\u2019s biggest challenges, threatening societies as we know them today. We\u2019re determined to be a banking leader in building a sustainable future for customers, society and the environment. We want to lead by example by striving for net zero in our own operations. We also want to play our part in the low-carbon transformation that\u2019s necessary to achieve a sustainable future, aiming to steer our financing towards meeting global climate goals and working with clients to achieve their own sustainability goals. Read more on our sustainability efforts in the 'ESG overview'."
+    },
+    "output": {
+      "translation": {
+        "Principles": [
+          {
+            "Principle": "Customer-centricity in service delivery",
+            "Explanation": "The text emphasizes the importance of focusing on the needs of the customers by providing tailored products and services such as payments, financial management, loans, and investments. It highlights adapting services to meet the diverse needs of different customer groups like private individuals, small businesses, and large corporates."
+          },
+          {
+            "Principle": "Commitment to hassle-free and personalized customer experiences",
+            "Explanation": "The organization aims to offer experiences that are 'easy, instant, personal, and relevant'. This principle is about ensuring that every interaction with the customer is smooth, quick, and tailored to their specific needs, enhancing satisfaction and loyalty."
+          },
+          {
+            "Principle": "Proactive involvement in financial education and planning",
+            "Explanation": "There is a focus on assisting customers in planning for the future and making informed financial decisions. This involves providing not just services and products but also valuable advice and support to help them achieve their financial goals effectively."
+          },
+          {
+            "Principle": "Leadership in sustainable business practices",
+            "Explanation": "The organization seeks to be a leader in sustainability within the banking sector, aiming for net zero in its operations and steering financing towards supporting global climate goals. This shows a commitment not just to profitability but also to positive social and environmental impact."
+          },
+          {
+            "Principle": "Strategic collaboration for broader impact",
+            "Explanation": "The text outlines the importance of working alongside clients to help them achieve their own sustainability goals. This principle suggests that creating a sustainable future is a collaborative effort that extends beyond the organization's direct operations."
+          }
+        ]
+      },
+      "alignment_results": [
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-centricity in service delivery",
+              "Score": 4,
+              "Justification": "ING Save Up is designed with features that focus on the customers' needs by simplifying the savings process. It specifically addresses diverse customer preferences by offering unique features for the Belgian market, such as tripling the rounded-off amount and linking savings to a child's account, demonstrating a tailored approach to different customer requirements."
+            },
+            {
+              "Principle": "Commitment to hassle-free and personalized customer experiences",
+              "Score": 5,
+              "Justification": "The service is specifically designed to be easy to use and hassle-free, as evidenced by the automatic transfer of rounded-off amounts into savings accounts and the ability to manage the service via an app or Home'Bank. Additionally, linking savings to a child\u2019s account provides a personalized experience tailored to customers with families."
+            },
+            {
+              "Principle": "Proactive involvement in financial education and planning",
+              "Score": 3,
+              "Justification": "While ING Save Up primarily focuses on facilitating savings by rounding up transactions, it indirectly supports financial education by encouraging the habit of saving. However, there is no direct mention of providing advice, support, or planning tools that more comprehensively address financial literacy and planning."
+            },
+            {
+              "Principle": "Leadership in sustainable business practices",
+              "Score": 1,
+              "Justification": "There is no indication in the text that ING\u2019s Save Up program includes elements related to sustainability or environmental considerations. The focus is primarily on personal financial management without a clear link to sustainable business practices."
+            },
+            {
+              "Principle": "Strategic collaboration for broader impact",
+              "Score": 2,
+              "Justification": "Although ING has introduced similar savings programs in other countries, indicating some level of strategic collaboration, there is no explicit evidence in the text of partnerships or collaborations aimed at achieving broader sustainability or other societal goals through the Save Up feature itself."
+            }
+          ],
+          "URL": "https://www.ing.com/Newsroom/News/When-every-cent-counts.htm"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-centricity in service delivery",
+              "Score": 1,
+              "Justification": "The text does not specifically address the provision of tailored financial products or services such as payments or investments, rather focuses on LGBTQI+ inclusion and rights."
+            },
+            {
+              "Principle": "Commitment to hassle-free and personalized customer experiences",
+              "Score": 1,
+              "Justification": "The text primarily discusses inclusivity in the workplace and advocacy initiatives, without mentioning customer interactions or personalized experience improvements."
+            },
+            {
+              "Principle": "Proactive involvement in financial education and planning",
+              "Score": 1,
+              "Justification": "The text does not mention any initiatives or programs related to guiding customers on financial planning or decision-making, rather it highlights LGBTQI+ empowerment and inclusion efforts."
+            },
+            {
+              "Principle": "Leadership in sustainable business practices",
+              "Score": 2,
+              "Justification": "While the text does demonstrate a commitment to social sustainability through LGBTQI+ support, it does not discuss environmental sustainability or specific business practices aimed at achieving net zero operations."
+            },
+            {
+              "Principle": "Strategic collaboration for broader impact",
+              "Score": 4,
+              "Justification": "The text outlines various collaborative efforts, such as the partnership in the Philippines and actions in the Czech Republic for marriage equality, indicating a strong commitment to working together for broader social impacts."
+            }
+          ],
+          "URL": "https://www.ing.com/Newsroom/News/Ever-been-told-to-tone-it-down-PrideMattersEveryDay.htm"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-centricity in service delivery",
+              "Score": 2,
+              "Justification": "While the text discusses cultural diversity and its impact on the business, it only implicitly hints at customer-centricity by mentioning that diversity brings great ideas to customers. Specific examples of tailored products or services are not provided, making direct alignment weak."
+            },
+            {
+              "Principle": "Commitment to hassle-free and personalized customer experiences",
+              "Score": 2,
+              "Justification": "The text lacks specific examples of personalized or hassle-free experiences for customers. While mentioning a diverse workforce suggests a potential for personalized service due to understanding various cultures, direct evidence of this principle in action is not shown."
+            },
+            {
+              "Principle": "Proactive involvement in financial education and planning",
+              "Score": 1,
+              "Justification": "The text does not include any information relating to financial education or planning for customers. The focus is primarily on cultural diversity within the organization rather than proactive customer support or educational initiatives."
+            },
+            {
+              "Principle": "Leadership in sustainable business practices",
+              "Score": 1,
+              "Justification": "There is no mention of sustainability, environmental, or social impact within the text. The focus remains on cultural diversity and inclusion, with no reference to sustainability practices or goals."
+            },
+            {
+              "Principle": "Strategic collaboration for broader impact",
+              "Score": 1,
+              "Justification": "The text does not mention any form of collaboration with clients or other stakeholders towards broader societal goals. It focuses on internal diversity and its perceived benefits but does not extend into collaboration for sustainability or other impacts beyond the organization."
+            }
+          ],
+          "URL": "https://www.ing.com/Newsroom/News/CupofCulture-using-coffee-to-stir-conversations-on-culture.htm"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-centricity in service delivery",
+              "Score": 5,
+              "Justification": "Text X clearly illustrates ING's commitment to customer-centricity. Examples such as customised accessibility ('available wherever they ask us to be'), and regular updates based on customer feedback highlight ING's strong alignment with providing tailored services across digital and in-person platforms."
+            },
+            {
+              "Principle": "Commitment to hassle-free and personalized customer experiences",
+              "Score": 5,
+              "Justification": "The text underscores ING's efforts to integrate seamless and personalized customer experiences. Phrases like 'our customers can do everything through digital channels' and 'taking the friction out of banking' emphasize a focus on hassle-free and personalized interactions."
+            },
+            {
+              "Principle": "Proactive involvement in financial education and planning",
+              "Score": 3,
+              "Justification": "While the text mentions ING's financial advice as an area rated by participants, detailed evidence of proactive efforts in financial education and planning specifically is not accentuated. The emphasis is more on the service aspect rather than educational support."
+            },
+            {
+              "Principle": "Leadership in sustainable business practices",
+              "Score": 1,
+              "Justification": "The text provides no information on ING's sustainable business practices or any initiatives aimed at achieving net zero operations or supporting global climate goals, thus showing poor alignment with this principle."
+            },
+            {
+              "Principle": "Strategic collaboration for broader impact",
+              "Score": 2,
+              "Justification": "There is minimal evidence in the text regarding ING's involvement in strategic collaborations for broader impacts, such as helping clients achieve their sustainability goals. The focus remains predominantly on customer service and digital advancements."
+            }
+          ],
+          "URL": "https://www.ing.com/Newsroom/News/Customers-name-ING-Worlds-Best-Bank-2024.htm"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-centricity in service delivery",
+              "Score": 4,
+              "Justification": "The introduction of the 'check the conversation' feature directly addresses a specific and pressing need of the customers: the threat of bank helpdesk fraud. This new functionality allows customers to verify the identity of callers claiming to be ING employees, thus enhancing their security and trust in the bank's services."
+            },
+            {
+              "Principle": "Commitment to hassle-free and personalized customer experiences",
+              "Score": 5,
+              "Justification": "The 'check the conversation' feature is a prime example of providing a personalized and hassle-free customer experience. It enables customers to instantly confirm the authenticity of calls from the bank, thereby easing their concerns about security during such interactions. This tool directly enhances the customer experience by addressing specific concerns efficiently."
+            },
+            {
+              "Principle": "Proactive involvement in financial education and planning",
+              "Score": 3,
+              "Justification": "While the primary focus of the 'check the conversation' feature is on security and preventing fraud, it indirectly contributes to financial education by making customers more aware of the risks of fraud and the importance of verifying the identity of who they are dealing with. However, the initiative is not explicitly aimed at wider financial education or planning."
+            },
+            {
+              "Principle": "Leadership in sustainable business practices",
+              "Score": 1,
+              "Justification": "Text X does not provide any information related to sustainable business practices, environmental concerns, or the bank's efforts in sustainability. Therefore, this principle is not aligned with the content of the text."
+            },
+            {
+              "Principle": "Strategic collaboration for broader impact",
+              "Score": 4,
+              "Justification": "ING's initiative to share their experiences with the new functionality with other Dutch banks reflects a commitment to strategic collaboration. By collaborating with other banks, INO aims to enhance the effectiveness of anti-fraud measures across the industry, thus showing a broader impact beyond their own operations."
+            }
+          ],
+          "URL": "https://www.ing.com/Newsroom/News/New-Dutch-functionality-to-unmask-scammers.htm"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-centricity in service delivery",
+              "Score": 5,
+              "Justification": "The initiative described in the text clearly aligns with this principle as it focuses on enhancing the online payment experience for customers by introducing an easier, safer, and more streamlined method with Click to Pay. The development specifically caters to customer needs for convenience and security in online payments."
+            },
+            {
+              "Principle": "Commitment to hassle-free and personalized customer experiences",
+              "Score": 5,
+              "Justification": "The text directly aligns with this principle by detailing the streamlined registration process and the seamless payment experience provided by Click to Pay. It emphasizes ease of enrollment and a consistent checkout process across different platforms, indicating a focus on hassle-free, personalized experiences."
+            },
+            {
+              "Principle": "Proactive involvement in financial education and planning",
+              "Score": 2,
+              "Justification": "There is little in the text that suggests a proactive approach to financial education or planning. The main focus appears to be on the technological aspect of making payments easier, rather than educating customers about financial management or planning."
+            },
+            {
+              "Principle": "Leadership in sustainable business practices",
+              "Score": 1,
+              "Justification": "The text does not mention any efforts toward sustainability or environmental considerations within the scope of this payment solution. There is no indication of how this initiative might contribute to sustainable business practices."
+            },
+            {
+              "Principle": "Strategic collaboration for broader impact",
+              "Score": 4,
+              "Justification": "The partnership between ING and Mastercard reflects a strategic collaboration aimed at enhancing the payment experience for customers. Although the broader social impact is not directly mentioned, such collaborations typically strive to create significant impacts within the industry, supporting the integration of efficient and secure technologies."
+            }
+          ],
+          "URL": "https://www.ing.com/Newsroom/News/Onlineshopping-experience-improved-with-Click-to-Pay.htm"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-centricity in service delivery",
+              "Score": 5,
+              "Justification": "The introduction of the Touch Card clearly prioritizes the needs of customers with visual impairments, tailoring the service by differentiating the notches on debit and credit cards for easier recognition."
+            },
+            {
+              "Principle": "Commitment to hassle-free and personalized customer experiences",
+              "Score": 5,
+              "Justification": "The development of differentiated notches on the bank cards directly simplifies the payment process for visually impaired individuals, making their banking interactions smoother and more personalized."
+            },
+            {
+              "Principle": "Proactive involvement in financial education and planning",
+              "Score": 2,
+              "Justification": "While the text highlights a specific aid for visually impaired customers, it does not explicitly detail any initiatives towards broader financial education or future financial planning, focusing more on immediate accessibility improvements."
+            },
+            {
+              "Principle": "Leadership in sustainable business practices",
+              "Score": 1,
+              "Justification": "There is no information provided in the text about sustainability practices or environmental considerations specific to this initiative, such as the materials used for the cards or any recycling programs."
+            },
+            {
+              "Principle": "Strategic collaboration for broader impact",
+              "Score": 4,
+              "Justification": "The collaboration between ING and Mastercard, as well as the embrace of feedback from the Eye Association, demonstrates a strategic partnership aiming to normalize and potentially globalize this accessible banking solution."
+            }
+          ],
+          "URL": "https://www.ing.com/Newsroom/News/New-Dutch-cards-to-feature-angular-notch.htm"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-centricity in service delivery",
+              "Score": 1,
+              "Justification": "The text does not discuss ING's products, services, or any initiatives tailored specifically to meet the diverse needs of their customers' financial management and planning."
+            },
+            {
+              "Principle": "Commitment to hassle-free and personalized customer experiences",
+              "Score": 1,
+              "Justification": "The provided text makes no mention of ING's efforts to ensure a hassle-free or personalized experience for its customers. The focus is largely on the legal and ethical commitment towards sustainability."
+            },
+            {
+              "Principle": "Proactive involvement in financial education and planning",
+              "Score": 1,
+              "Justification": "The excerpt does not address ING's involvement in financial education or planning for its customers. It is primarily centered on responding to climate change liability claims."
+            },
+            {
+              "Principle": "Leadership in sustainable business practices",
+              "Score": 5,
+              "Justification": "ING's alignment with this principle is strongly reflected in the text, emphasizing their commitment to the Paris Agreement and integrating sustainability as a key component of their strategic direction. The CEO of ING clearly states the importance of sustainability and their proactive approach adjusted by evolving science."
+            },
+            {
+              "Principle": "Strategic collaboration for broader impact",
+              "Score": 3,
+              "Justification": "While ING expresses a commitment to dialogue and collaboration with Milieudefensie for sustainability goals, the text does not explicitly mention collaboration with other clients or parties for broader sustainability impacts, thus providing a moderate alignment with this principle."
+            }
+          ],
+          "URL": "https://www.ing.com/Newsroom/News/ING-responds-to-letter-Friends-of-the-Earth.htm"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-centricity in service delivery",
+              "Score": 5,
+              "Justification": "Text X explains how DealWise 'uses the power of machine learning to curate personalised offers' specifically designed for each customer, highlighting how services are tailored to individual preferences. This approach is customer-centric as it focuses on creating a tailored and relevant shopping experience."
+            },
+            {
+              "Principle": "Commitment to hassle-free and personalized customer experiences",
+              "Score": 5,
+              "Justification": "The repeated mention of 'unique personalisation' and efforts to enhance 'user experience' with the assistance of skilled developers and data experts in the text underscores a strong commitment to providing a hassle-free and personalized experience. The impact is visible in the increase in user numbers and purchase frequency, indicating high customer satisfaction derived from these tailored experiences."
+            },
+            {
+              "Principle": "Proactive involvement in financial education and planning",
+              "Score": 1,
+              "Justification": "The provided text does not mention any efforts towards financial education or planning. It primarily focuses on enhancing the shopping experience through discounts and personalized offers, without any direct mention of educating customers on financial matters or future planning."
+            },
+            {
+              "Principle": "Leadership in sustainable business practices",
+              "Score": 1,
+              "Justification": "The text does not provide any information related to sustainable practices or efforts to achieve net-zero operations within DealWise or its affiliated platform operations. Therefore, there is no alignment with this principle based on the provided text."
+            },
+            {
+              "Principle": "Strategic collaboration for broader impact",
+              "Score": 2,
+              "Justification": "While the text mentions 'over 1,000 merchants' as partners and showcases significant growth in savings and user engagement, there is limited evidence of a strategic collaboration aimed towards broader social or environmental impact. The partnerships primarily appear to be operational and commercial in nature."
+            }
+          ],
+          "URL": "https://www.ing.com/Newsroom/News/The-rise-and-rise-of-DealWise.htm"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-centricity in service delivery",
+              "Score": 1,
+              "Justification": "The provided text does not discuss delivering tailored financial products and services to meet customer needs. Instead, it focuses on the organization's response to climate change and their pending legal challenges."
+            },
+            {
+              "Principle": "Commitment to hassle-free and personalized customer experiences",
+              "Score": 1,
+              "Justification": "The text does not mention any efforts to ensure customer interactions are easy, instant, personal, or relevant. It primarily addresses the organization's strategies on sustainability and legal defense."
+            },
+            {
+              "Principle": "Proactive involvement in financial education and planning",
+              "Score": 1,
+              "Justification": "There is no evidence in the text of the organization proactively involving in financial education or planning for its customers. The focus is predominantly on legal issues and sustainability commitments."
+            },
+            {
+              "Principle": "Leadership in sustainable business practices",
+              "Score": 4,
+              "Justification": "The text aligns well with this principle by outlining the organization's steps toward sustainability, such as phasing out financing upstream oil and gas by 2040 and increasing financing for renewable power. However, the mention that much of their current financing is still not sustainable prevents a perfect score."
+            },
+            {
+              "Principle": "Strategic collaboration for broader impact",
+              "Score": 3,
+              "Justification": "The text mentions ongoing dialogue with stakeholders like Friends of the Earth Netherlands, which suggests some level of collaboration. However, detailed strategies or examples of collaborative efforts to achieve broader sustainability goals are not extensively covered."
+            }
+          ],
+          "URL": "https://www.ing.com/Newsroom/News/ING-reacts-to-Friends-of-the-Earth-announcement.htm"
+        }
+      ]
+    },
+    "metadata": {
+      "company": "ING",
+      "goals_source_url": "https://www.ing.com/MediaEditPage/2023-ING-Groep-N.V.-annual-report.htm",
+      "model": "gpt-4-turbo",
+      "run_datetime": "2024-06-09_20-44-15"
+    }
+  },
+  "ABN AMRO": {
+    "input": {
+      "strategy": "Our purpose is **Banking for better, for generations to come**; this purpose gives direction to our strategy and how we deliver on it. Since 2020, we have been executing our strategy of becoming a personal bank in the digital age for the resourceful and ambitious.\n\nOur three strategic pillars act as our guiding principles in executing our strategy. The first pillar is customer experience, as we focus on attractive segments where we can grow by bringing convenience into the daily lives of our clients and expertise when it matters. Our second pillar is sustainability, where we aim to become the first-choice partner for our clients in sustainability, providing distinctive expertise in supporting their transition. And our third pillar is future-proof bank, enhancing client service, compliance and efficiency.\n\n**Customer Experience \u2013 A personal bank in the digital age, for the resourceful and the ambitious**\n\n**Our aim is to focus on market segments where we can grow profitably, bring convenience to daily banking and offer expertise to clients at moments that matter.** To that end, over the past few years we monitored, steered and set strategic targets on Net Promoter Score (NPS) and market share in two focus segments in the Netherlands: mortgages and SMEs.\n\nGoing forward, we will increasingly work with non-financial partners in for example SME lending, payments and investments, and develop digital asset capabilities to prepare for the transformation of the financial markets infrastructure.\n\n**Sustainability** \u2013 distinctive expertise in supporting clients\u2019 transition to sustainability\n\n**Sustainability has been a core pillar of our strategy since 2018 and is an integral part of our business.** We aim to be our clients\u2019 first-choice partner in sustainability, providing financing and expertise to help them transition towards more sustainable practices. As part of our climate strategy we have started working with clients to align with the 2015 Paris Climate Agreement.\n\nGoing forward, we will further integrate the sustainability transition into our business models, leveraging our current exposures and sector knowledge.\n\n**Future-proof bank \u2013 Enhance client services, compliance and efficiency**\n\nWe are building a future-proof bank. To do this, we are enhancing client service, compliance, and efficiency, as well as simplifying and further centralising our organisation, reducing our cost base and streamlining our product offering. At the same time, we are working to protect client data, to help in the fight against cybercrime and to build a workforce fit for the future. We are fully committed to maintaining a strict risk focus.\n\nGoing forward, we are working to improve our client offering with simplified financial solutions, optimising the user experience as we move towards a modular architecture. This will enable us to reduce time-to-market, make it easier to work with partners and reduce maintenance costs."
+    },
+    "output": {
+      "translation": {
+        "Principles": [
+          {
+            "Principle": "Customer-oriented growth",
+            "Explanation": "The text emphasizes the need to focus on profitable market segments and enhance customer experience through convenience and tailored expertise, particularly in the sectors of mortgages and SMEs."
+          },
+          {
+            "Principle": "Commitment to sustainability",
+            "Explanation": "Sustainability is integral to the bank's strategy, aiming to become the first-choice partner by providing finance and advice for clients' transition to sustainable practices, aligning with global standards like the Paris Climate Agreement."
+          },
+          {
+            "Principle": "Future-proofing through efficiency and compliance",
+            "Explanation": "The bank seeks to ensure long-term viability by enhancing client services, improving compliance, and increasing operational efficiency. This includes organizational simplification, cost reduction, and streamlining products."
+          },
+          {
+            "Principle": "Strategic partnerships and technological advancement",
+            "Explanation": "Future plans include working with non-financial partners and developing digital assets to adapt to changes in financial market infrastructure, demonstrating a forward-thinking approach in business practices."
+          },
+          {
+            "Principle": "Risk management and cyber security",
+            "Explanation": "Maintaining a strict risk focus and enhancing protections against cybercrime are highlighted as critical to the bank's strategy, ensuring data safety and building a resilient organizational structure."
+          }
+        ]
+      },
+      "alignment_results": [
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-oriented growth",
+              "Score": 4,
+              "Justification": "The text demonstrates a strong focus on enhancing customer experience by targeting the female economy, a specific market segment. The efforts of ABN AMRO in training employees to provide inclusive services, and the partnership with Elfin align with improving customer experience, although it doesn't specifically mention mortgages and SMEs."
+            },
+            {
+              "Principle": "Commitment to sustainability",
+              "Score": 2,
+              "Justification": "The text does not explicitly mention any sustainability efforts or alignment with global standards like the Paris Climate Agreement. It focuses more on social impact and inclusivity rather than environmental sustainability."
+            },
+            {
+              "Principle": "Future-proofing through efficiency and compliance",
+              "Score": 2,
+              "Justification": "The text does not provide information on enhancing client services through operational efficiency, simplification, or compliance improvements. The focus is primarily on social impacts and initiatives rather than on internal efficiencies or compliance structures."
+            },
+            {
+              "Principle": "Strategic partnerships and technological advancement",
+              "Score": 3,
+              "Justification": "The text mentions strategic partnerships with Elfin, linking these with Preferred Banking benefits and a social impact brand campaign. However, there is no explicit reference to technological advancement or adaptation to changes in financial market infrastructure, making the alignment partial."
+            },
+            {
+              "Principle": "Risk management and cyber security",
+              "Score": 1,
+              "Justification": "There is no mention of risk management strategies or cybersecurity measures in the text, indicating poor alignment with this principle."
+            }
+          ],
+          "URL": "https://www.abnamro.com/en/news/changemaker-award-for-chantal-korteweg-head-of-social-impact-and-inclusive"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-oriented growth",
+              "Score": 2,
+              "Justification": "The text focuses on social impact campaigns and empowerment in football, rather than emphasizing tailored expertise or enhancing customer experiences in mortgages and SMEs sectors. Thus, the alignment is somewhat indirect as it promotes overall brand but not specific market segments."
+            },
+            {
+              "Principle": "Commitment to sustainability",
+              "Score": 1,
+              "Justification": "The text does not mention sustainability or any alignment with global standards like the Paris Climate Agreement. The focus is primarily on promoting women in sports and culture but lacks any direct reference to environmental sustainability or sustainable practices."
+            },
+            {
+              "Principle": "Future-proofing through efficiency and compliance",
+              "Score": 1,
+              "Justification": "There is no reference to enhancements in client services, compliance, or operational efficiency. The narrative centers around the empowerment and visibility of women, without discussing organizational simplification or cost management."
+            },
+            {
+              "Principle": "Strategic partnerships and technological advancement",
+              "Score": 3,
+              "Justification": "The collaboration with Roxeanne Hazes and focus on a social campaign indicate a form of partnership. However, there is no mention of technological advancements or adaptation to changes in financial infrastructures. The alignment here is moderate due to the existence of partnerships but limited to non-technological aspects."
+            },
+            {
+              "Principle": "Risk management and cyber security",
+              "Score": 1,
+              "Justification": "The text does not address any aspects of risk management or cybersecurity. It focuses on promoting gender equity in sports and arts, without any mention of data safety or risk management strategies."
+            }
+          ],
+          "URL": "https://www.abnamro.com/en/news/ajax-womens-main-sponsor-abn-amro-teams-with-singer-roxeanne-hazes-in-ode-to"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-oriented growth",
+              "Score": 1,
+              "Justification": "The provided text does not discuss strategies focused on profitable market segments specifically related to mortgages and SMEs, nor does it highlight any initiatives to enhance customer experience through custom solutions or convenience in these sectors."
+            },
+            {
+              "Principle": "Commitment to sustainability",
+              "Score": 5,
+              "Justification": "Text X extensively covers ABN AMRO's commitment to sustainability through investments in climate-tech funds like Blume Equity and solutions targeting the climate emergency. Moreover, the establishment of a \u20ac1 billion investment in early-stage capital for environmental strategies and diverse investments in sustainable companies illustrate active participation in sustainable practices aligning with global standards such as the Paris Climate Agreement."
+            },
+            {
+              "Principle": "Future-proofing through efficiency and compliance",
+              "Score": 2,
+              "Justification": "The text does not provide clear insights into organizational simplification, cost reduction measures, or streamlining product offerings. However, the overall narrative hints at an efficient funding approach to support sustainable businesses, but lacks details on compliance or how such strategies enable long-term viability of the bank."
+            },
+            {
+              "Principle": "Strategic partnerships and technological advancement",
+              "Score": 4,
+              "Justification": "The text underpins several aspects of strategic partnerships, particularly ABN AMRO's collaboration with Blume Equity to foster growth in sustainable European ventures and capitalize on technological advancements. Blume Equity\u2019s involvement with disruptive technologies like smart sensors, robot-enabled services, and carbon accounting platforms also indicate advancements in tech crucial for the bank's future strategies. Although more in-depth details on technology would strengthen the point, existing partnerships show a forward-thinking approach."
+            },
+            {
+              "Principle": "Risk management and cyber security",
+              "Score": 1,
+              "Justification": "The text makes no mention of risk management frameworks, strategies to enhance cybersecurity, or any measures to protect against cybercrime. Therefore, alignment with this principle in Text X is minimal at best."
+            }
+          ],
+          "URL": "https://www.abnamro.com/en/news/abn-amro-invests-in-all-female-founded-climate-tech-fund-blume-equity"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-oriented growth",
+              "Score": 2,
+              "Justification": "The text does not specifically address strategies aimed at growing specific market segments or enhancing customer experiences in mortgages and SMEs. It focuses primarily on the response to a cybersecurity incident."
+            },
+            {
+              "Principle": "Commitment to sustainability",
+              "Score": 1,
+              "Justification": "The provided text does not mention any initiatives or actions related to sustainability or environmental practices. Therefore, it does not align with the principle of moving towards sustainability."
+            },
+            {
+              "Principle": "Future-proofing through efficiency and compliance",
+              "Score": 3,
+              "Justification": "The text mentions that ABN AMRO is working closely with the supplier and external cybersecurity experts to handle the data breach, indicating an effort to maintain compliance and manage operational risks efficiently."
+            },
+            {
+              "Principle": "Strategic partnerships and technological advancement",
+              "Score": 2,
+              "Justification": "Though the text discusses ABN AMRO's partnership with AddComm and the engagement of external cybersecurity experts, it focuses more on immediate response rather than long-term strategic partnerships or technological advancements."
+            },
+            {
+              "Principle": "Risk management and cyber security",
+              "Score": 4,
+              "Justification": "The focus on handling the data breach, engaging cybersecurity experts, notifying regulatory authorities, and advising clients on security precautions shows a high level of engagement in risk management and cybersecurity."
+            }
+          ],
+          "URL": "https://www.abnamro.com/en/news/abn-amro-supplier-attacked-by-ransomware"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-oriented growth",
+              "Score": 2,
+              "Justification": "While the text demonstrates a concern for customer awareness and protection, it does not particularly emphasize the enhancement of customer experience through convenience and tailored expertise in specific sectors like mortgages and SMEs."
+            },
+            {
+              "Principle": "Commitment to sustainability",
+              "Score": 1,
+              "Justification": "The text does not discuss sustainability or any efforts to align with global sustainability standards such as the Paris Climate Agreement. The focus is solely on fraud awareness and prevention."
+            },
+            {
+              "Principle": "Future-proofing through efficiency and compliance",
+              "Score": 3,
+              "Justification": "The text aligns somewhat with this principle by addressing the need for increased customer awareness to prevent fraud, which can be seen as an aspect of improving compliance and ensuring the bank's long-term viability through safeguarding client assets."
+            },
+            {
+              "Principle": "Strategic partnerships and technological advancement",
+              "Score": 2,
+              "Justification": "While the text mentions the creation of a special postage stamp with STRAAT, a museum for street art and graffiti, this partnership seems more focused on educational and promotional efforts rather than on advancing financial technology or infrastructure."
+            },
+            {
+              "Principle": "Risk management and cyber security",
+              "Score": 4,
+              "Justification": "The text highly aligns with this principle as it extensively discusses the bank's efforts to combat fraud and enhance customer knowledge on security practices, thereby contributing to risk management and strengthening defenses against cybercrime."
+            }
+          ],
+          "URL": "https://www.abnamro.com/en/news/one-in-eight-dutch-people-dont-know-that-a-bank-would-never-ask-to-send-in"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-oriented growth",
+              "Score": 1,
+              "Justification": "The text focuses on commemoration and the importance of peace and freedom, without discussing customer-oriented growth or any aspects related to market segments, customer experience, mortgages, or SMEs."
+            },
+            {
+              "Principle": "Commitment to sustainability",
+              "Score": 1,
+              "Justification": "The text discusses the commemoration of fallen employees and the importance of peace, but does not mention sustainability practices, environmental actions, or the bank's alignment with the Paris Climate Agreement."
+            },
+            {
+              "Principle": "Future-proofing through efficiency and compliance",
+              "Score": 1,
+              "Justification": "There is no mention of efforts towards enhancing client services, improving compliance, increasing operational efficiency, or any measures related to organizational simplification or cost reduction in the provided text."
+            },
+            {
+              "Principle": "Strategic partnerships and technological advancement",
+              "Score": 1,
+              "Justification": "The text makes no reference to strategic partnerships, technological advancements, or adaptations to financial market infrastructures, focusing solely on the ceremonial event of remembrance."
+            },
+            {
+              "Principle": "Risk management and cyber security",
+              "Score": 1,
+              "Justification": "The content of the speech and the ceremony does not cover any aspects of risk management, cyber security, or organizational resilience, instead highlighting historical remembrance and the value of freedom and peace."
+            }
+          ],
+          "URL": "https://www.abnamro.com/en/news/abn-amro-commemorates-fallen-colleagues-of-the-second-world-war"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-oriented growth",
+              "Score": 2,
+              "Justification": "The text focuses on a social and environmental initiative, specifically aimed at improving biodiversity and upgrading agricultural practices. While indirectly benefiting customers by potentially leading to healthier crop products, the emphasis of Text X is not directly on enhancing customer experience through tailored financial expertise or conveniences, particularly in sectors like mortgages or SMEs, as outlined in the principle."
+            },
+            {
+              "Principle": "Commitment to sustainability",
+              "Score": 5,
+              "Justification": "Text X aligns strongly with the principle of sustainability. The business case by ABetterNature focuses on transitioning to regenerative farming practices, reducing dependency on harmful pesticides, and promoting biodiversity in the Netherlands. This initiative clearly aligns with the goal of the bank to facilitate clients' transition to sustainable practices, mirroring global sustainability standards like the Paris Climate Agreement."
+            },
+            {
+              "Principle": "Future-proofing through efficiency and compliance",
+              "Score": 3,
+              "Justification": "The proposed parametric insurance model in Text X looks to spread financial risks among multiple stakeholders and prevent crop diseases efficiently. Although this indirectly suggests an increase in efficiency and possibly aligns with improving client services, Text X lacks direct reference to internal organizational simplification or cost reduction strategies that are explicit in this principle."
+            },
+            {
+              "Principle": "Strategic partnerships and technological advancement",
+              "Score": 4,
+              "Justification": "While the primary focus in Text X is on the innovative parametric insurance model, the success of such an idea suggests a likely collaboration among different entities, such as insurance providers, farmers, and perhaps technology developers for monitoring and data collection. Though not explicitly stated, the nature of the case indicates probable strategic partnerships and employs technology in managing agricultural risks, fitting the broader scope of the principle."
+            },
+            {
+              "Principle": "Risk management and cyber security",
+              "Score": 2,
+              "Justification": "Text X emphasizes risk management through its insurance model which aims at mitigating financial risks for farmers transitioning to sustainable practices. However, there is no specific reference to cyber security or how digital data (potentially generated by the insurance model) will be protected, which is a crucial aspect of this principle."
+            }
+          ],
+          "URL": "https://www.abnamro.com/en/news/abetternature-wins-partnership-verkiezing-2024-for-abn-amro"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-oriented growth",
+              "Score": 4,
+              "Justification": "The text highlights the use of Tikkie QR codes to facilitate payments during King's Day, enhancing customers' convenience and shopping experience. This aligns with focusing on profitable market segments and improving the customer experience. The growth in transactions and the capability to predict spending behavior indicate a focus on customer-oriented growth."
+            },
+            {
+              "Principle": "Commitment to sustainability",
+              "Score": 1,
+              "Justification": "The provided text does not mention any elements related to sustainability or practices that align with environmental commitments or the Paris Climate Agreement. Therefore, the alignment with this principle is minimal."
+            },
+            {
+              "Principle": "Future-proofing through efficiency and compliance",
+              "Score": 3,
+              "Justification": "The increase in QR code transactions and the movement away from cash payments can be seen as steps towards operational efficiency. However, the text does not specifically address compliance, organizational simplification, or cost reduction strategies directly."
+            },
+            {
+              "Principle": "Strategic partnerships and technological advancement",
+              "Score": 4,
+              "Justification": "The adoption and promotion of QR code technology for transactions show a commitment to technological advancement. Although the text does not explicitly mention partnerships with non-financial entities, the use of modern digital payment solutions demonstrates an adaptation to changes in financial infrastructure."
+            },
+            {
+              "Principle": "Risk management and cyber security",
+              "Score": 2,
+              "Justification": "While the use of digital payments like the Tikkie QR code could imply an underlying importance of cyber security, the text does not specifically address efforts in risk management or protection against cyber threats, which are essential components of this principle."
+            }
+          ],
+          "URL": "https://www.abnamro.com/en/news/digital-payments-on-kingsday-more-and-more-popular"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-oriented growth",
+              "Score": 1,
+              "Justification": "The text focuses on promoting female artists and enhancing their representation in the art world, which is not directly related to enhancing customer experience in specific sectors like mortgages or SMEs."
+            },
+            {
+              "Principle": "Commitment to sustainability",
+              "Score": 2,
+              "Justification": "While the text mentions a sustainable action by supporting diversity and inclusion (gender-focused), it does not directly address broader sustainability initiatives or align with global standards like the Paris Climate Agreement."
+            },
+            {
+              "Principle": "Future-proofing through efficiency and compliance",
+              "Score": 1,
+              "Justification": "The text primarily describes the art prize and collaborations with museums to support female artists. There is no mention of operational efficiency enhancements, compliance, or cost reduction strategies related to financial operations."
+            },
+            {
+              "Principle": "Strategic partnerships and technological advancement",
+              "Score": 2,
+              "Justification": "The text describes a partnership with the Stedelijk Museum to promote female artists which aligns somewhat with strategic partnerships but does not discuss technological advancements or adaptations in financial market infrastructure."
+            },
+            {
+              "Principle": "Risk management and cyber security",
+              "Score": 1,
+              "Justification": "There is no mention of risk management strategies, cyber security measures, or related protections which are critical elements of the principle."
+            }
+          ],
+          "URL": "https://www.abnamro.com/en/news/winner-of-12th-abn-amro-art-prize-gets-exhibition-at-stedelijk-museum-in"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Customer-oriented growth",
+              "Score": 4,
+              "Justification": "The text demonstrates a strong commitment to improving the customer experience by expanding the number of Help with Banking advisers and offering personalized support for online banking. This effort to ensure all customers can independently manage their finances aligns well with enhancing customer experience through tailored expertise."
+            },
+            {
+              "Principle": "Commitment to sustainability",
+              "Score": 1,
+              "Justification": "The provided text does not mention any efforts or policies related to sustainability or environmental impact. It focuses solely on digital banking support and accessibility, with no direct alignment to sustainability practices or goals such as those outlined in the Paris Climate Agreement."
+            },
+            {
+              "Principle": "Future-proofing through efficiency and compliance",
+              "Score": 3,
+              "Justification": "The text talks about the expansion of Help with Banking advisers, indicating an effort to improve customer service and accessibility, which could contribute to organizational simplification. However, there is no specific mention of enhancing compliance measures, reducing costs, or increasing overall operational efficiency, which are key elements of this principle."
+            },
+            {
+              "Principle": "Strategic partnerships and technological advancement",
+              "Score": 2,
+              "Justification": "While the text highlights the deployment of additional advisers and emphasizes online banking services, there is limited information regarding strategic technological partnerships or advancements beyond the existing digital service enhancements. The focus remains on service provision rather than strategic technological innovation or partnerships."
+            },
+            {
+              "Principle": "Risk management and cyber security",
+              "Score": 3,
+              "Justification": "The text indirectly touches on cybersecurity by noting the training of advisers to help customers bank online 'as effectively and securely as possible.' However, there is no explicit mention of broader risk management strategies or detailed cybersecurity initiatives which are crucial aspects of this principle."
+            }
+          ],
+          "URL": "https://www.abnamro.com/en/news/abn-amro-is-doubling-the-number-of-help-with-banking-advisers"
+        }
+      ]
+    },
+    "metadata": {
+      "company": "ABN AMRO",
+      "goals_source_url": "https://downloads.ctfassets.net/1u811bvgvthc/1ct3rr0164d6Vt5YuVrWqe/9d077ade80674aa3b6123872c7bc176d/ABN_AMRO___Integrated_Annual_Report_2023_ww.pdf",
+      "model": "gpt-4-turbo",
+      "run_datetime": "2024-06-09_20-44-15"
+    }
+  },
+  "Deutsche Bank": {
+    "input": {
+      "strategy": "Deutsche Bank\u2019s strategic and financial roadmap through 2025 aims to position Deutsche Bank as a Global Hausbank, and to achieve the bank\u2019s 2025 financial targets and capital objectives. The Global Hausbank strategy is underpinned by three key themes: risk management, sustainability and technology, which have become even more important considering the ongoing geopolitical and macro-economic challenges. In this environment, Deutsche Bank aims to leverage a more favorable interest rate environment, deploy risk management expertise to support clients, and allocate capital to high-return growth opportunities. As sustainability becomes ever more important, the bank aims to deepen its dialogue with and support for clients and broaden the agenda in respect of the bank\u2019s own operations. As technology continues to evolve, Deutsche Bank aims to achieve further cost savings, accelerate the transition to a digital bank and expand upon strategic partnerships, which are already creating substantial value. At the same time, Deutsche Bank continues to work towards a long-term set-up that will enable a future of sustainable growth. This includes a clear definition of its purpose, vision and culture."
+    },
+    "output": {
+      "translation": {
+        "Principles": [
+          {
+            "Principle": "Integrate Risk Management",
+            "Explanation": "Deutsche Bank emphasizes the integration of risk management expertise to support clients, showing a proactive approach to navigating potential threats and safeguarding assets."
+          },
+          {
+            "Principle": "Focus on Sustainability",
+            "Explanation": "The strategy includes a focus on sustainability, aiming to deepen dialogue with clients on this topic and broaden the bank\u2019s own operational practices towards more sustainable approaches."
+          },
+          {
+            "Principle": "Leverage Technological Advancements",
+            "Explanation": "By accelerating the transition to a digital bank and expanding strategic partnerships, Deutsche Bank aims to use technology for cost savings and to enhance operational efficiency."
+          },
+          {
+            "Principle": "Invest in High-Return Opportunities",
+            "Explanation": "The bank plans to allocate capital to areas with high-return prospects, indicating a strategic approach to growth and value creation."
+          },
+          {
+            "Principle": "Cultivate a Defined Organizational Identity",
+            "Explanation": "Deutsche Bank is working towards a clear definition of its purpose, vision, and culture, aiming to establish a strong and persistent organizational identity."
+          }
+        ]
+      },
+      "alignment_results": [
+        {
+          "Principles": [
+            {
+              "Principle": "Integrate Risk Management",
+              "Score": 4,
+              "Justification": "The text discusses measures such as ensuring digital asset safety and focusing on scalability and security to manage risks associated with interoperability across blockchains. Although specific risk management methodologies are not detailed, the emphasis on security and safety indicates a strong alignment with risk management."
+            },
+            {
+              "Principle": "Focus on Sustainability",
+              "Score": 1,
+              "Justification": "The text does not mention any initiatives or discussions related to sustainability, nor does it indicate how interoperability of tokenized assets might align with sustainable practices. Therefore, it shows poor alignment with this principle."
+            },
+            {
+              "Principle": "Leverage Technological Advancements",
+              "Score": 5,
+              "Justification": "The text thoroughly discusses leveraging blockchain technology and tokenization to innovate and enhance efficiencies in the financial sector, particularly through a focus on interoperability. This shows a direct and high alignment with leveraging technological advancements."
+            },
+            {
+              "Principle": "Invest in High-Return Opportunities",
+              "Score": 3,
+              "Justification": "While the text alludes to increased accessibility and liquidity for tokenized assets which could indicate high-return opportunities, it does not explicitly discuss investment strategies or capital allocation in high-return areas. Thus, it has a moderate alignment with this principle."
+            },
+            {
+              "Principle": "Cultivate a Defined Organizational Identity",
+              "Score": 2,
+              "Justification": "The text does not address Deutsche Bank's organizational identity, purpose, vision, or culture directly. There is a focus on innovative practices and partnerships which might indirectly contribute to identity, but the alignment is relatively low."
+            }
+          ],
+          "URL": "https://www.db.com/news/detail/20240607-deutsche-bank-collaborates-with-industry-partners-to-launch-paper-on-blockchain-interoperability?language_id=1"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Integrate Risk Management",
+              "Score": 2,
+              "Justification": "The text does not provide any specific detail or example of risk management practices being integrated into the initiatives or the competition itself. Therefore, alignment with this principle appears to be low."
+            },
+            {
+              "Principle": "Focus on Sustainability",
+              "Score": 3,
+              "Justification": "While the initiatives promote social good and community development, the text lacks clear emphasis on sustainability in terms of environmental or long-term financial practices. Hence, a moderate score reflects the indirect impact these initiatives may have on broader sustainability through social equity and community support."
+            },
+            {
+              "Principle": "Leverage Technological Advancements",
+              "Score": 1,
+              "Justification": "There is no mention of leveraging technology either in the operations of the initiatives or in the way Deutsche Bank supports them, indicating poor alignment with this principle."
+            },
+            {
+              "Principle": "Invest in High-Return Opportunities",
+              "Score": 2,
+              "Justification": "There is a possible implication that investing in social initiatives might generate high social returns; however, the text does not explicitly connect these initiatives with financial returns or high-return investment strategies, resulting in a lower score."
+            },
+            {
+              "Principle": "Cultivate a Defined Organizational Identity",
+              "Score": 4,
+              "Justification": "The text suggests a consistent engagement by Deutsche Bank over multiple years as the main partner in the startsocial competition, indicating a commitment to certain social goals and identity. This might contribute to shaping a defined organizational identity, at least within the domain of corporate social responsibility."
+            }
+          ],
+          "URL": "https://www.db.com/news/detail/20240604-this-is-a-headline?language_id=1"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Integrate Risk Management",
+              "Score": 4,
+              "Justification": "The text highlights the partnership between Bitpanda and Deutsche Bank, focusing on providing secure real-time payment solutions and the fact that Bitpanda is a 'recognised and regulated fintech provider', indicating an emphasis on regulatory compliance and secure operations, aligning well with the principle of integrating risk management."
+            },
+            {
+              "Principle": "Focus on Sustainability",
+              "Score": 2,
+              "Justification": "The provided text does not specifically address sustainability efforts or how Deutsche Bank or Bitpanda are engaging in practices aimed at sustainability. Thus, the text shows poor alignment with this principle due to the lack of mentioning or addressing sustainable practices directly."
+            },
+            {
+              "Principle": "Leverage Technological Advancements",
+              "Score": 5,
+              "Justification": "The collaboration between Deutsche Bank and Bitpanda on technological components like API-based payment solutions and providing localized IBANs shows a high utilization of technological advancements. This demonstrates a clear alignment with the principle of leveraging technology for enhanced efficiency and operational functionality."
+            },
+            {
+              "Principle": "Invest in High-Return Opportunities",
+              "Score": 3,
+              "Justification": "The strategic partnership between Deutsche Bank and Bitpanda for expanding financial services into digital and crypto asset markets indicates a focus on new, potentially high-return fields. However, the specific investment strategy or capital allocation is not discussed, leading to a moderate score."
+            },
+            {
+              "Principle": "Cultivate a Defined Organizational Identity",
+              "Score": 3,
+              "Justification": "While the text references the solid positioning of Deutsche Bank as a leader in Germany and strong European roots, and Bitpanda's defined role as a leading crypto broker in Europe, it lacks detail on the internal cultural or organizational identity initiatives. Hence, the alignment is moderate."
+            }
+          ],
+          "URL": "https://www.db.com/news/detail/20240604-bitpanda-expands-partnership-with-deutsche-bank?language_id=1"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Integrate Risk Management",
+              "Score": 5,
+              "Justification": "Text X demonstrates a strong alignment with this principle through the Swap Connect programme's focus on enabling investors to effectively hedge RMB interest rate risk and manage their exposure to China's financial markets. It also mentions the addition of a compression service to streamline portfolios and the clearing of backdated swap contracts to reduce curve risks, which are clear examples of integrated risk management."
+            },
+            {
+              "Principle": "Focus on Sustainability",
+              "Score": 2,
+              "Justification": "There is little evidence in Text X specifically addressing sustainability in terms of environmental, social, or governance factors. The text focuses mainly on financial services and risk management, and does not mention any sustainable practices or initiatives directly relating to Deutsche Bank\u2019s strategic focus on sustainability."
+            },
+            {
+              "Principle": "Leverage Technological Advancements",
+              "Score": 4,
+              "Justification": "Text X shows alignment with this principle through the mention of operational efficiencies such as seamless trading and clearing experiences provided by the partnership with CFETS, SHCH, and HKEX. These collaborative technological advancements help in reducing operational complexity and costs, demonstrating a strong leverage of technology."
+            },
+            {
+              "Principle": "Invest in High-Return Opportunities",
+              "Score": 3,
+              "Justification": "The text suggests a potential alignment with this principle showing that the programme facilitates access to China's onshore RMB interest rate swap market, which may lead to high returns due to increased international interest and market participation. However, detailed specifics on the return aspects of investments are not thoroughly covered in the text."
+            },
+            {
+              "Principle": "Cultivate a Defined Organizational Identity",
+              "Score": 3,
+              "Justification": "While there is a mention of Deutsche Bank\u2019s role and contributions, such as being a pioneering market maker for Northbound Swap Connect and providing real-time pricing and transaction services, the text does not delve deeply into the broader organizational identity relative to purpose, vision, and culture."
+            }
+          ],
+          "URL": "https://www.db.com/news/detail/20240530-china-s-swap-connect-a-year-later-significance-to-global-markets?language_id=1"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Integrate Risk Management",
+              "Score": 3,
+              "Justification": "Although the text does not explicitly mention risk management strategies, Deutsche Bank's focus on regulatory compliance and secure operations implies an underlying integration of risk management. The use of advanced technology like AI in Project Aggie for regulatory analysis can also be viewed as part of risk mitigation in handling regulatory changes."
+            },
+            {
+              "Principle": "Focus on Sustainability",
+              "Score": 1,
+              "Justification": "The text does not provide any information about Deutsche Bank's efforts or initiatives towards sustainability. The awards and accolades mentioned are focused on service excellence, technological innovation, and market leadership, without any reference to sustainability practices."
+            },
+            {
+              "Principle": "Leverage Technological Advancements",
+              "Score": 5,
+              "Justification": "The bank's emphasis on digital transformation and innovative technology is highly evident, especially with the mention of Project Aggie that uses AI technology to enhance their custody services. This project is highlighted as an innovative approach to handling complex regulatory texts, showcasing the bank's initiative to leverage technological advancements for operational efficiency and client service."
+            },
+            {
+              "Principle": "Invest in High-Return Opportunities",
+              "Score": 2,
+              "Justification": "While the text outlines Deutsche Bank's success and strategic focus in the emerging markets, there is scant detail on specific high-return investment opportunities or a strategic plan to capitalize on such opportunities. The focus is more on delivering services efficiently rather than expanding into high-return ventures."
+            },
+            {
+              "Principle": "Cultivate a Defined Organizational Identity",
+              "Score": 3,
+              "Justification": "Deutsche Bank's repeated success and recognition in specific market sectors like the emerging markets suggest an effort to strengthen and define its identity around service excellence in securities services. However, the text lacks depth on the broader aspects of organizational identity such as vision, purpose, or culture that comprehensively define the bank's identity."
+            }
+          ],
+          "URL": "https://www.db.com/news/detail/20240531-best-custody-services-provider-in-emerging-markets?language_id=1"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Integrate Risk Management",
+              "Score": 2,
+              "Justification": "The text does not provide direct evidence of integrating risk management expertise or proactive threat navigation associated with the Emerging Curator\u2019s Fellowship, so it is challenging to assess the alignment directly with risk management."
+            },
+            {
+              "Principle": "Focus on Sustainability",
+              "Score": 4,
+              "Justification": "The ongoing partnership and consistent selection of institutions outside of London for the fellowship indicate a broader, sustainable approach to distributing opportunities and supporting diversity in the art sector. This underscores a commitment to social sustainability and enhancing community engagement throughout the U.K."
+            },
+            {
+              "Principle": "Leverage Technological Advancements",
+              "Score": 1,
+              "Justification": "There is no mention of leveraging technological advancements within Text X. The emphasis remains on personal development in curatorship and diversification in the arts sector, hence the score is low for alignment on this principle."
+            },
+            {
+              "Principle": "Invest in High-Return Opportunities",
+              "Score": 3,
+              "Justification": "While the text does not detail financial returns, the investment in Emerging Curator\u2019s Fellowship and its potential long-term benefits to the arts culture and community impact suggests indirect alignment with looking for high-return opportunities in terms of social value and cultural influence."
+            },
+            {
+              "Principle": "Cultivate a Defined Organizational Identity",
+              "Score": 5,
+              "Justification": "The continuous commitment to arts and culture and the specific focus on supporting underrepresented communities in arts clearly contribute to defining Deutsche Bank's organizational identity. The long-term partnership with Frieze and consistent support to culture delineate a clear, consistent identity in financial and cultural sectors combined."
+            }
+          ],
+          "URL": "https://www.db.com/news/detail/20240521-raising-diverse-voices-in-the-art-world-with-frieze?language_id=1"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Integrate Risk Management",
+              "Score": 3,
+              "Justification": "The program involves synthetic securitization of consumer loans, aiming to free up regulatory capital and manage financial risks. However, detailed specifics on risk management practices are not deeply elaborated."
+            },
+            {
+              "Principle": "Focus on Sustainability",
+              "Score": 5,
+              "Justification": "The text strongly emphasizes sustainability, particularly in housing. The program supports private individuals in building and modernizing homes to be more climate-friendly and energy-efficient, aligning precisely with the principle of focusing on sustainability."
+            },
+            {
+              "Principle": "Leverage Technological Advancements",
+              "Score": 2,
+              "Justification": "The text does not provide explicit details on the use of technology or digital advancement within the program. While the securitization process may inherently involve some form of technology, there's no specific mention of leveraging technology to enhance operational efficiency in the described program."
+            },
+            {
+              "Principle": "Invest in High-Return Opportunities",
+              "Score": 3,
+              "Justification": "The text implies a strategic financial approach by offering low-interest loans for high-demand market segments like climate-friendly housing, which could potentially lead to high returns through increased market share and customer loyalty. However, the emphasis is more on sustainability than on financial return explicitly."
+            },
+            {
+              "Principle": "Cultivate a Defined Organizational Identity",
+              "Score": 4,
+              "Justification": "The collaboration with the European Investment Bank and the focused approach on climate-friendly initiatives reflect a clear commitment towards a sustainable and responsible banking identity. This aligns with the efforts to establish a defined organizational identity as a bank committed to sustainability."
+            }
+          ],
+          "URL": "https://www.db.com/news/detail/20240517-european-investment-bank-and-deutsche-bank-launch-mortgage-programme-for-climate-friendly-housing-and-energy-efficient-home-modernisation-in-germany?language_id=1"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Integrate Risk Management",
+              "Score": 1,
+              "Justification": "The provided text does not mention any specific actions taken by Deutsche Bank related to risk management practices, especially as they pertain to disability inclusion. The focus of the text is on inclusivity towards employees with disabilities, with no direct reference to integrating risk management in this context."
+            },
+            {
+              "Principle": "Focus on Sustainability",
+              "Score": 2,
+              "Justification": "Although the text highlights Deutsche Bank's commitment to creating an inclusive workplace and promoting community-wide initiatives like the partnership with the Singapore Business Network on Disability, it does not specifically discuss sustainability in the environmental or corporate governance sense. The sustainability mentioned is more about maintaining inclusive practices rather than broader sustainability objectives."
+            },
+            {
+              "Principle": "Leverage Technological Advancements",
+              "Score": 1,
+              "Justification": "The text includes no specific examples of Deutsche Bank leveraging technological advancements directly related to their inclusive initiatives or overall operations. While modern approaches might be implied in their programs, explicit mention of technology usage for enhancing operational efficiency or inclusion is absent."
+            },
+            {
+              "Principle": "Invest in High-Return Opportunities",
+              "Score": 1,
+              "Justification": "The text focuses mainly on the inclusivity of the workplace and hiring practices related to people with disabilities, without discussing strategic investments in high-return opportunities. There is no indication of Deutsche Bank allocating capital specifically to high-return domains in the context provided."
+            },
+            {
+              "Principle": "Cultivate a Defined Organizational Identity",
+              "Score": 4,
+              "Justification": "The text demonstrates a strong alignment with cultivating a defined organizational identity, as it details Deutsche Bank's consistent efforts towards inclusivity and disability awareness. Initiatives like dbEnable and Neurodiversity@work program support a clear vision of inclusivity and community responsibility, aligning with the cultivation of a strong, inclusive organizational identity."
+            }
+          ],
+          "URL": "https://www.db.com/news/detail/20240521-deutsche-bank-singapore-receives-sgenable-s-platinum-enabling-mark-for-disability-inclusion?language_id=1"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Integrate Risk Management",
+              "Score": 4,
+              "Justification": "The text mentions Deutsche Bank's development of bespoke solutions for complex client needs, such as improving cross-border liquidity and finding off-balance sheet financing solutions, which indicates a strong focus on integrating risk management. Additionally, the bank's use of AI for fraud detection further exemplifies its commitment to navigating potential threats and safeguarding assets."
+            },
+            {
+              "Principle": "Focus on Sustainability",
+              "Score": 2,
+              "Justification": "The provided text does not specifically mention Deutsche Bank's initiatives or achievements related to sustainability. There is a lack of detail on how the bank plans to deepen dialogue on sustainability or broaden its operational practices towards more sustainable approaches."
+            },
+            {
+              "Principle": "Leverage Technological Advancements",
+              "Score": 5,
+              "Justification": "Deutsche Bank's commitment to improving its technology stack, increasing efforts in instant payments adoption, and the implementation of AI for fraud detection as well as the bank\u2019s workflow FX solution facilitating hedging activities in 130 currencies are strong demonstrations of leveraging technological advancements to enhance operational efficiency."
+            },
+            {
+              "Principle": "Invest in High-Return Opportunities",
+              "Score": 3,
+              "Justification": "While the text illustrates success and recognition from awards, indicating strategic growth, it does not explicitly mention how Deutsche Bank is specifically investing in high-return opportunities. The text hints at strategic investments through awards and client commendations but lacks detailed evidence of deliberate capital allocation to high-return areas."
+            },
+            {
+              "Principle": "Cultivate a Defined Organizational Identity",
+              "Score": 4,
+              "Justification": "The statement from Ole Matthiessen regarding the bank's client-centric approach, regional strategy recognition, and the pride in team and infrastructure partners reflects efforts towards cultivating a defined organizational identity. However, more specific examples of actions towards defining its purpose, vision, and culture would strengthen this alignment."
+            }
+          ],
+          "URL": "https://www.db.com/news/detail/20240516-number-1-transaction-bank-in-asia-pacific?language_id=1"
+        },
+        {
+          "Principles": [
+            {
+              "Principle": "Integrate Risk Management",
+              "Score": 3,
+              "Justification": "The text mentions a collaborative initiative to test asset tokenization in regulated markets which implies a consideration for managing regulatory risk. However, there is no explicit mention of risk management strategies or specific risk mitigation actions."
+            },
+            {
+              "Principle": "Focus on Sustainability",
+              "Score": 1,
+              "Justification": "The text does not provide any information on efforts related to sustainability. There's no mention of any strategy or action towards sustainability in the bank's participation in Project Guardian or in its asset and wealth management approach."
+            },
+            {
+              "Principle": "Leverage Technological Advancements",
+              "Score": 5,
+              "Justification": "The text clearly aligns with this principle through the bank's engagement in Project Guardian, testing interoperable blockchain platforms, and collaboration with fintechs and digital natives to advance asset servicing technologies."
+            },
+            {
+              "Principle": "Invest in High-Return Opportunities",
+              "Score": 4,
+              "Justification": "While the text does not explicitly mention investing in high-return opportunities, the involvement in blockchain technology and digital assets implies a strategic attempt to venture into potentially high-return sectors within financial services."
+            },
+            {
+              "Principle": "Cultivate a Defined Organizational Identity",
+              "Score": 2,
+              "Justification": "There is minimal evidence in the text about efforts to develop or promote a clear organizational identity. The focus is on technological and service improvements rather than defining or conveying a distinct corporate culture or identity."
+            }
+          ],
+          "URL": "https://www.db.com/news/detail/20240514-deutsche-bank-joins-project-guardian-to-explore-asset-tokenization-applications?language_id=1"
+        }
+      ]
+    },
+    "metadata": {
+      "company": "Deutsche Bank",
+      "goals_source_url": "https://investor-relations.db.com/files/documents/annual-reports/2024/Annual-Report-2023.pdf",
+      "model": "gpt-4-turbo",
+      "run_datetime": "2024-06-09_20-44-15"
+    }
+  }
+}
